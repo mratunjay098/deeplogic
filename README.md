@@ -1,4 +1,4 @@
-# Time.com Latest Stories Scraper
+# time.com Latest Stories Scraper
 
 This Python script fetches the latest stories from the time.com website and extracts their titles and links.
 
