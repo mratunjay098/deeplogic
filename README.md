@@ -23,8 +23,7 @@ This project consists of two Python scripts and one JavaScript code:
 The scripts set up an HTTP server and expose an API endpoint (`/getTimeStories`) to retrieve the latest stories scraped from the Time website.
 
 ### API Endpoint
-The API endpoint can be accessed at `http://localhost:6464/getTimeStories`.
-The API endpoint can be accessed at `http://localhost:5000/getTimeStories`.
+The API endpoint can be accessed at `http://localhost:6464/getTimeStories` and `http://localhost:5000/getTimeStories`.
 
 ### Example:
 ```bash
